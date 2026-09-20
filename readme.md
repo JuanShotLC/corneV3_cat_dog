@@ -1,6 +1,7 @@
-\# Corne V3 (crkbd) - Firmware Personalizado "neoncornecatdogwin"
+\# Corne V3 (crkbd) - Firmware Personalizado "CorneV3_cat_dog"
 
 
+<img width="1472" height="2876" alt="Gemini_Generated_Image_qu0dmaqu0dmaqu0d" src="https://github.com/user-attachments/assets/9c37c299-015b-42e4-864a-b84217055d8c" />
 
 Este repositorio contiene la configuración del firmware QMK para un teclado Corne V3 dividido (Split). Incluye mapas de teclas para Windows y macOS, control de iluminación estática y animaciones OLED reactivas (Perro y Gato) basadas en WPM (palabras por minuto).
 
